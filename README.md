@@ -1,7 +1,7 @@
 This is a description and showcase of my cloth simulation project (but without source code, [contact me](mailto:euvinmkeel@gmail.com) for details.)
 
 # README
-This project was for the UCSD class CSE 169.\
+This project was for the UCSD class CSE 169: Computer Animation. We used C++ and Microsoft Visual Studio Community 2022, with OpenGL + GLSL.\
 A debug gui (using DearImGUI) can be used to change parameters such as wind, cloth dimensions, or cloth mass.\
 Below is a video of the running app:\
 
