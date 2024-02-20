@@ -7,4 +7,4 @@ Below is a video of the running app:
 
 https://github.com/euvinkeel/ClothSimulation/assets/25259651/9a391c9f-7ee8-4bd5-8382-fb137d843c7a
 
-If you're interested in the actual source code, [contact me.](mailto:euvinmkeel@gmail.com)
+It's a course project, so I can't make the actual code public. But if you came from my resume, [contact me.](mailto:euvinmkeel@gmail.com)
